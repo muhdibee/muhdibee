@@ -8,10 +8,11 @@ I'm a Software Engineer, Content Creator, and Community Engineer. I'm passionate
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, Reactjs, and Python and Nodejs.
+- 🌱 I’m currently learning full-stack web developement with JavaScript.
+- 🚀 My technology stack include: React.js, JavaScript, TypeScript SASS, Node.js, Express.js and Docker. 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front Engineer, or Full-stack Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1qDCkeQC9A_r4SbfGBPgbf8KH1rIC-NYU/view) and contact me by emailing muhdibee@gmail.com.
+- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer (Intern or Junior level).
+- 📫 You can [view my resume](https://drive.google.com/file/d/1lSrF3KcNv-Hx8S9z97SR-1IZLH82Kb46/view?usp=share_link) and contact me by emailing muhdibee@gmail.com.
 
 ---
 
