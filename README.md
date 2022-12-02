@@ -12,7 +12,7 @@ I'm a Software Engineer, Content Creator, and Community Engineer. I'm passionate
 - 🚀 My technology stack include: React.js, JavaScript, TypeScript SASS, Node.js, Express.js and Docker. 
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/file/d/1lSrF3KcNv-Hx8S9z97SR-1IZLH82Kb46/view?usp=share_link) and contact me by emailing muhdibee@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1KC_Q73FKUvY3HgQYtWUDeLA37jJ_FROZ/view?usp=share_link) and contact me by emailing muhdibee@gmail.com.
 
 ---
 
