@@ -10,8 +10,8 @@ I'm a Software Engineer and Community Engineer. I'm passionate about sharing kno
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning full-stack web developement with JavaScript.
 - 🚀 My technology stack include: React.js, JavaScript, TypeScript SASS, Node.js, Express.js, Docker and AWS. 
-- 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer (Intern or Junior level).
+- 😊 I’m looking for help with open source projects, hackathons, internships, and junior softwaare engineer opportunities.
+- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer.
 - 📫 You can [view my resume](https://drive.google.com/file/d/1KC_Q73FKUvY3HgQYtWUDeLA37jJ_FROZ/view?usp=share_link) and contact me at the email muhdibee@gmail.com.
 
 ---
