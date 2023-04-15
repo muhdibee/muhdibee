@@ -8,7 +8,7 @@ I'm a Software Engineer and Community Engineer. I'm passionate about sharing kno
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm an AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) alumni.
-- 🌱 I’m currently working as a full-stack web developement with JavaScript.
+- 🌱 I’m currently working as a full-stack developer with JavaScript.
 - 🚀 My technology stack include: React.js, JavaScript, TypeScript SASS, Node.js, Express.js, Docker and AWS. 
 - 😊 I’m open to opprtunites around open source projects, hackathons, full-time or contract software engineering roles.
 - 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer.
