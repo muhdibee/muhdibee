@@ -12,7 +12,7 @@ I'm a Software Engineer and a technical writer. I'm passionate about sharing kno
 - 🚀 My technology stack include: React.js, JavaScript, TypeScript SASS, Node.js, Express.js, Docker and MongoDB. 
 - 😊 I’m open to opprtunites around open source projects, hackathons, full-time or contract software engineering roles.
 - 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/15laynqmB9mIGR3LlgRamW-BltDtTXloQ/view?usp=sharing) and contact me at the email muhdibee@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1zn8Cw8vpbxYTVRyA6lf1ND0hFFRZEbYl/view?usp=sharing) and contact me at the email muhdibee@gmail.com.
 
 ---
 
