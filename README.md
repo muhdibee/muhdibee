@@ -2,17 +2,19 @@
 
 [![Website Badge](https://img.shields.io/badge/-muhammadibrahim.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://muhammadibrahim.dev)](https://muhammadibrahim.dev) [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Ibrahim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhdibee/)](https://www.linkedin.com/in/muhdibee/) [![Twitter Badge](https://img.shields.io/badge/-@muhdibee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/muhdibee)](https://twitter.com/muhdibee)
 
-I'm a Software Engineer and a technical writer. I'm passionate about sharing knowledge, documentation, web engineering and others.
+I'm a Software Engineer. I'm passionate about Web engineering, DevOps engineering and Cloud engineering.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm an AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) alumni.
-- 🌱 I’m currently working as a full-stack developer with JavaScript.
-- 🚀 My technology stack include: React.js, JavaScript, TypeScript SASS, Node.js, Express.js, Docker and MongoDB. 
-- 😊 I’m open to opprtunites around open source projects, hackathons, full-time or contract software engineering roles.
-- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer or Full-stack Engineer.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1HorDvvvKvdD545HO_0NPsHhYHDsapEkQ/view?usp=drive_link) and contact me at the email muhdibee@gmail.com.
+- 💡 I'm an AltSchool Africa alumni.
+- 🌱 I have 3 years of software engineering work experience.
+- 🎉I’m currently working as a full-stack developer at Daily Trust LTD.
+- 🚀 My favourite technology stack include: React.js, Next.js, JavaScript, TypeScript, Bootstrap, Node.js, Express.js and MongoDB.
+- ⚙️ My favourite tools include: Linux, Ducker, Jenkins and AWS.
+- 😊 I’m open to engineering job opprtunites around open source projects, full-time roles or contract software engineering roles.
+- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer, Full-stack Engineer DevOps engineer or Cloud engineer.
+- 📫 Looking for an engineer? you can [view my resume](https://drive.google.com/file/d/1HorDvvvKvdD545HO_0NPsHhYHDsapEkQ/view?usp=drive_link) or send me an email [muhdibee@gmail.com] (muhdibee@gmail.com).
 
 ---
 
