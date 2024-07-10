@@ -14,7 +14,7 @@ I'm a Software Engineer. I'm passionate about Web engineering, DevOps engineerin
 - ⚙️ My favourite tools include: Linux, Ducker, Jenkins and AWS.
 - 😊 I’m open to engineering job opprtunites around open source projects, full-time roles or contract software engineering roles.
 - 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer, Full-stack Engineer DevOps engineer or Cloud engineer.
-- 📫 Looking for an engineer? you can [view my resume](https://drive.google.com/file/d/1HorDvvvKvdD545HO_0NPsHhYHDsapEkQ/view?usp=drive_link) or send me an email [muhdibee@gmail.com] (muhdibee@gmail.com).
+- 📫 Looking for an engineer? you can view my resume [here](https://drive.google.com/file/d/1qY2Wxs85z6uU7RrbT-dNQVLLcpbKo--2/view?usp=sharing) or send me an email [here](muhdibee@gmail.com).
 
 ---
 
