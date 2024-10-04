@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-muhammadibrahim.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://muhammadibrahim.dev)](https://muhammadibrahim.dev) [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Ibrahim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhdibee/)](https://www.linkedin.com/in/muhdibee/) [![Twitter Badge](https://img.shields.io/badge/-@muhdibee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/muhdibee)](https://twitter.com/muhdibee)
+[![Website Badge](https://img.shields.io/badge/-muhammadibrahim.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://muhdibee.netlify.app)](https://muhdibee.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Ibrahim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhdibee/)](https://www.linkedin.com/in/muhdibee/) [![Twitter Badge](https://img.shields.io/badge/-@muhdibee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/muhdibee)](https://twitter.com/muhdibee)
 
 I'm a Software Engineer. I'm passionate about Web engineering, DevOps engineering and Cloud engineering.
 
@@ -13,8 +13,8 @@ I'm a Software Engineer. I'm passionate about Web engineering, DevOps engineerin
 - 🚀 My favourite technology stack include: React.js, Next.js, JavaScript, TypeScript, Bootstrap, Node.js, Express.js and MongoDB.
 - ⚙️ My favourite tools include: Linux, Ducker, Jenkins and AWS.
 - 😊 I’m open to engineering job opprtunites around open source projects, full-time roles or contract software engineering roles.
-- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer, Full-stack Engineer DevOps engineer or Cloud engineer.
-- 📫 Looking for an engineer? you can view my resume [here](https://drive.google.com/file/d/1qY2Wxs85z6uU7RrbT-dNQVLLcpbKo--2/view?usp=sharing) or send me an email [here](muhdibee@gmail.com).
+- 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer, Full-stack Engineer, DevOps engineer.
+- 📫 Looking for an engineer? you can view my resume [here]([https://drive.google.com/file/d/1qY2Wxs85z6uU7RrbT-dNQVLLcpbKo--2/view?usp=sharing](https://docs.google.com/document/d/1WF_AWct7xiXT45b9fkHqZoL9OTnO7b6KILxTh1tsF2Q/edit?usp=sharing)) or send me an email [here](muhdibee@gmail.com).
 
 ---
 
