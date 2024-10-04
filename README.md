@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-[![Website Badge](https://img.shields.io/badge/-muhammadibrahim.dev-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://muhdibee.netlify.app)](https://muhdibee.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Ibrahim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhdibee/)](https://www.linkedin.com/in/muhdibee/) [![Twitter Badge](https://img.shields.io/badge/-@muhdibee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/muhdibee)](https://twitter.com/muhdibee)
+[![Website Badge](https://img.shields.io/badge/-muhdibee.netlify.app-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white&link=https://muhdibee.netlify.app)](https://muhdibee.netlify.app) [![Linkedin Badge](https://img.shields.io/badge/-Muhammad_Ibrahim-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/muhdibee/)](https://www.linkedin.com/in/muhdibee/) [![Twitter Badge](https://img.shields.io/badge/-@muhdibee-1ca0f1?style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/muhdibee)](https://twitter.com/muhdibee)
 
 I'm a Software Engineer. I'm passionate about Web engineering, DevOps engineering and Cloud engineering.
 
