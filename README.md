@@ -8,9 +8,9 @@ I'm a Software Engineer. I'm passionate about Web engineering, DevOps engineerin
 
 - 😊 Pronouns: He/him
 - 💡 I'm an AltSchool Africa alumni.
-- 🌱 I have 3 years of software engineering work experience.
-- 🎉I’m currently working as a full-stack developer at Daily Trust LTD.
-- 🚀 My favourite technology stack include: React.js, Next.js, JavaScript, TypeScript, Bootstrap, Node.js, Express.js and MongoDB.
+- 🌱 I have 4 years of software engineering work experience.
+- 🎉I’m currently working as a full-stack developer at Media Trust LTD.
+- 🚀 My favourite technology stack include: React.js, Next.js, JavaScript, TypeScript, Bootstrap, Tailwind CSS, Node.js, Express.js, MongoDB and MySQL.
 - ⚙️ My favourite tools include: Linux, Ducker, Jenkins and AWS.
 - 😊 I’m open to engineering job opprtunites around open source projects, full-time roles or contract software engineering roles.
 - 💼 Job interests: Software Engineer, Front-end Engineer, Back-end Engineer, Full-stack Engineer, DevOps engineer.
